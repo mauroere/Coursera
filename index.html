@@ -1,10 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="NameCalculator">
 <head>
   <meta charset="utf-8">
-  <title>Hello Coursera</title>
+  <title>Name Calculator</title>
+  <script src="angular.min.js"></script>
+  <script src="app.js"></script>
 </head>
 <body>
-  <h1>Hello Coursera Sync 2</h1>
+  <h1>Name Calculator</h1>
+  <div ng-controller="NameCalculatorController">
+    <input type="text" ng-model="name" ng-keyup="updateTotal();" />
+    Total value: {{totalValue}}
+    {{name}}
+  </div>
 </body>
 </html>
