@@ -1,4 +1,4 @@
-# Coursera v1.4-beta, 4 listopada 2015
+# Coursera v1.6-beta, 26 listopada 2016
 [Kursy na Coursera]()
 
 # Kontekst
@@ -11,9 +11,20 @@ browser-sync start --server --directory --files "**/*"
 
 Do zrobienia
 
+* [ ] Single Page Web Applications with AngularJS
+* [ ] Machine Learning
 * [ ] Interactivity with JavaScript
-* [ ] Introduction to CSS3
-* [ ] Introduction to HTML5
+* [x] Introduction to CSS3
+* [x] Introduction to HTML5
+* [x] Learning How to Learn
+
+2016-11-21 v1.6-beta
+
+* Nowoœæ: kurs Single Page Web Applications with AngularJS
+
+2016-11-20 v1.5-beta
+
+* Nowoœæ: kurs Machine Learning
 
 2016-10-10 v1.4-beta
 
