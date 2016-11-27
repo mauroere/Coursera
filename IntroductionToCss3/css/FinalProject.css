@@ -1,0 +1,64 @@
+﻿body {
+    background-color: #b3b3b3;
+    margin: 4%;
+    font-size: 150%;
+}
+
+header {
+    background-color: #666666;
+    text-align: center;
+    padding: 15px;
+}
+
+nav {
+    font-variant: small-caps;
+    font-size: 150%;
+    font-family: Arial;
+}
+
+nav a {
+    width: 22%;
+    display: inline-block;
+    background: white;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 { 
+    color: #ffff00;
+}
+
+.half {
+    width: 45%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+}
+
+.whole {
+    clear: both;
+}
+
+details {
+    font-style: italic;
+}
+
+summary {
+    font-style: normal;
+}
+
+footer {
+    background-color: #ffffff;
+    clear: left;
+}
+
+img {
+    width: 50px;
+}
+
+header, footer {
+    background: #666666;
+    background: linear-gradient(white, gray);
+}

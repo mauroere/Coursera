@@ -1,0 +1,151 @@
+h1{
+	color: #FFFFFF;
+	font-size: 25px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+header{
+	position: relative;
+	display: inline-block;
+	height:200px;
+	width: 100%;
+	background-image: url('../images/flywheel.jpg');
+	margin-left:15px;
+	margin-right:15px;
+	background-position: center 100% 100%;
+	background-size: 100%;
+ 	background-color: #C0C0C0;
+ 	margin-right: 50px;
+ 	padding-top: 30px;
+ 	 
+}
+
+
+nav{
+	color:#000000;
+	
+}
+
+nav a{
+	display: inline-block;
+	color:#000000;
+	background-color: #ffffff;
+	text-align: center;
+	margin-left: 100px;
+	text-decoration: none;
+	word-spacing: normal;
+	font-size: 150%;
+	width: 15%;
+	padding: 15px;
+	border-radius: 5px;
+}
+
+
+
+nav a:hover{
+	background: #B3B3B3;
+	color: #0006CC;
+}
+
+.active{
+	background-color: #FFD700;
+	color: #FFD700;
+	font-size: 80%;
+}
+
+nav a:focus{
+	background: #B3B3B3;
+	color: #0006CC;
+}
+
+aside{
+	float:left;
+	display inline-block;
+	background-color: #808000;
+	width: 20%;
+	height: 810px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+aside img{
+	display: block;
+	border: solid 2px #000000;
+	height: 150px;
+	width:  60%;
+	margin-left:55px;
+	margin-top:50px;
+	margin-right:15px;
+	
+
+}
+
+
+.left{
+	display:block;
+}
+
+h2{
+	font-size:25px;
+	color:#000000;
+}
+
+p{
+	font-size: 20px;
+}
+
+.right{
+	display: inline-block;
+	background-color: #FFFFFF;
+	text-align: left;
+	width:69%;
+	float:left;
+	margin-left: 15px;
+}
+
+table{
+	margin-left:250px;
+	text-transform:uppercase; 
+	text-decoration: underline;
+	font-size: 20px;
+	table-layout: fixed;
+}
+
+th{
+	background-color: #0000CD;
+	-webkit-border-radius: 0 0 5px 5px;
+	border-radius: 5px 5px 0 0;
+	color: #FFFFFF;
+	border: solid 2px #000000;
+	padding: 5px;
+}
+
+td{
+	background-color:#DCDCDC;
+	margin-top: 10px;
+	border: dotted 1px #000000;
+	-webkit-border-radius:0 0 5px 5px;
+	border-radius: 0 0 5px 5px;
+	padding: 5px;	
+}
+
+tr{
+	opacity: 0.7;
+}
+
+tr:hover{
+	opacity: 1;
+}
+
+table td,
+table th{
+	text-align: left;
+}
+
+table td + td,
+table th + th{
+	text-align: center;
+}
+
+
