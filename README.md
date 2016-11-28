@@ -1,6 +1,12 @@
 # Coursera v1.6-beta, 26 listopada 2016
 [Kursy na Coursera]()
 
+# How to submit
+
+Copy the token below and run the submission script included in the assignment download. 
+When prompted, use your email address damian.hintz@gmail.com
+SQH1qp0CrCbMED4N
+
 # Kontekst
 
 # Szkic rozwi¹zania
