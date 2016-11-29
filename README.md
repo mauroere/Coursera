@@ -6,6 +6,7 @@
 Copy the token below and run the submission script included in the assignment download. 
 When prompted, use your email address damian.hintz@gmail.com
 SQH1qp0CrCbMED4N
+MlTzlR4CY2egElcz
 
 # Kontekst
 
