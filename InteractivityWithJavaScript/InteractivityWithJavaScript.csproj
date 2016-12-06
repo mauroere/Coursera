@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\gallery.css" />
+    <Content Include="Week4.html" />
     <Content Include="js\gallery.js" />
     <Content Include="PhotoGallery.html" />
     <Content Include="packages.config" />
