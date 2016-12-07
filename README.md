@@ -1,18 +1,35 @@
-# Coursera v1.6-beta, 26 listopada 2016
+ï»¿# Coursera v1.6.1, 5 grudnia 2016
 [Kursy na Coursera]()
 
-# How to submit
+# UkoÅ„czone kursy
 
-Copy the token below and run the submission script included in the assignment download. 
+* Interactivity with JavaScript
+* Introduction to CSS3
+* Introduction to HTML5
+* Learning How to Learn
+
+# How to submit Machine Learning
+
+Copy the token below and run the submission script included in the assignment download.
 When prompted, use your email address damian.hintz@gmail.com
 SQH1qp0CrCbMED4N
 MlTzlR4CY2egElcz
 
-# Kontekst
+# Single Page Web Applications with AngularJS
 
-# Szkic rozwi¹zania
+> browser-sync start --server --directory --files "*/*"
 
-browser-sync start --server --directory --files "**/*"
+# Learning How to Learn
+
+* focused and diffuse mode
+* chunking
+* spaced repetition
+* recall (testing)
+* focus on process not the problem (Pomodoro)
+* memory palace
+* mataphor and analogy
+* mini tests
+* hard start, jump to easy
 
 # Historia
 
@@ -20,34 +37,34 @@ Do zrobienia
 
 * [ ] Single Page Web Applications with AngularJS
 * [ ] Machine Learning
-* [ ] Interactivity with JavaScript
-* [x] Introduction to CSS3
-* [x] Introduction to HTML5
-* [x] Learning How to Learn
+
+2016-12-25 v1.6.1
+
+* Aktualizacja: ukoÅ„czyÅ‚em kurs Interactivity with JavaScript (95.8%)
 
 2016-11-21 v1.6-beta
 
-* Nowoœæ: kurs Single Page Web Applications with AngularJS
+* NowoÅ›Ä‡: kurs Single Page Web Applications with AngularJS
 
 2016-11-20 v1.5-beta
 
-* Nowoœæ: kurs Machine Learning
+* NowoÅ›Ä‡: kurs Machine Learning
 
 2016-10-10 v1.4-beta
 
-* [x] Nowoœæ: kurs Interactivity with JavaScript
+* [x] NowoÅ›Ä‡: kurs Interactivity with JavaScript
 
 2015-11-04 v1.3-beta
 
-* [x] Nowoœæ: kurs Introduction to CSS3
+* [x] NowoÅ›Ä‡: kurs Introduction to CSS3
 
 2015-11-04 v1.2-beta
 
-* [x] Nowoœæ: kurs Introduction to HTML5
+* [x] NowoÅ›Ä‡: kurs Introduction to HTML5
 
 2015-11-04 v1.1-beta
 
-* [x] Nowoœæ: kurs Learning How to Learn
+* [x] NowoÅ›Ä‡: kurs Learning How to Learn
 
 2014-09-27 v1.0-alfa
 
