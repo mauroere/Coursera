@@ -1,4 +1,4 @@
-﻿# Coursera v1.6.1, 5 grudnia 2016
+﻿# Coursera v1.6.2, 8 grudnia 2016
 [Kursy na Coursera]()
 
 # Ukończone kursy
@@ -12,8 +12,14 @@
 
 Copy the token below and run the submission script included in the assignment download.
 When prompted, use your email address damian.hintz@gmail.com
+
+## Programming Assignment: Linear Regression
+
 SQH1qp0CrCbMED4N
 MlTzlR4CY2egElcz
+
+## Programming Assignment: Logistic Regression
+
 nyDPtPle7Q1aNVNV
 
 # Single Page Web Applications with AngularJS
@@ -39,33 +45,37 @@ Do zrobienia
 * [ ] Single Page Web Applications with AngularJS
 * [ ] Machine Learning
 
+2016-12-08 v1.6.2
+
+* aktualizacja: ukończyłem zadanie z regresji logistycznej
+
 2016-12-25 v1.6.1
 
-* Aktualizacja: ukończyłem kurs Interactivity with JavaScript (95.8%)
+* aktualizacja: ukończyłem kurs Interactivity with JavaScript (95.8%)
 
 2016-11-21 v1.6-beta
 
-* Nowość: kurs Single Page Web Applications with AngularJS
+* nowość: kurs Single Page Web Applications with AngularJS
 
 2016-11-20 v1.5-beta
 
-* Nowość: kurs Machine Learning
+* nowość: kurs Machine Learning
 
 2016-10-10 v1.4-beta
 
-* [x] Nowość: kurs Interactivity with JavaScript
+* Nowość: kurs Interactivity with JavaScript
 
 2015-11-04 v1.3-beta
 
-* [x] Nowość: kurs Introduction to CSS3
+* Nowość: kurs Introduction to CSS3
 
 2015-11-04 v1.2-beta
 
-* [x] Nowość: kurs Introduction to HTML5
+* Nowość: kurs Introduction to HTML5
 
 2015-11-04 v1.1-beta
 
-* [x] Nowość: kurs Learning How to Learn
+* Nowość: kurs Learning How to Learn
 
 2014-09-27 v1.0-alfa
 
