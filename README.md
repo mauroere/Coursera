@@ -48,6 +48,7 @@ Do zrobienia
 2016-12-08 v1.6.2
 
 * aktualizacja: ukończyłem zadanie z regresji logistycznej
+* New: assignment 2 soluction (Shopping List Check Off)
 
 2016-12-25 v1.6.1
 
