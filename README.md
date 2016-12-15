@@ -28,9 +28,15 @@ nyDPtPle7Q1aNVNV
 
 ## Week 1
 
+[Assignment 1 solution](https://damianhintz.github.io/Coursera/SinglePageWebApplicationsWithAngularJS/assignment1/)
+
 ## Week 2
 
+[Assignment 2 solution](https://damianhintz.github.io/Coursera/SinglePageWebApplicationsWithAngularJS/assignment2/)
+
 ## Week 3
+
+[Assignment 3 solution](https://damianhintz.github.io/Coursera/SinglePageWebApplicationsWithAngularJS/assignment3/)
 
 # Learning How to Learn
 
