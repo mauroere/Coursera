@@ -1,4 +1,4 @@
-﻿# Coursera v1.6.2, 8 grudnia 2016
+﻿# Coursera v1.6.2, 15 grudnia 2016
 [Kursy na Coursera]()
 
 # Ukończone kursy
@@ -26,6 +26,12 @@ nyDPtPle7Q1aNVNV
 
 > browser-sync start --server --directory --files "*/*"
 
+## Week 1
+
+## Week 2
+
+## Week 3
+
 # Learning How to Learn
 
 * focused and diffuse mode
@@ -44,6 +50,10 @@ Do zrobienia
 
 * [ ] Single Page Web Applications with AngularJS
 * [ ] Machine Learning
+
+2016-12-15 v1.6.3
+
+* New: assignment 3 solution (NarrowItDownApp)
 
 2016-12-08 v1.6.2
 

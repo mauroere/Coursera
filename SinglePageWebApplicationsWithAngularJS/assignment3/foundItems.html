@@ -1,5 +1,19 @@
 <div class="form_group">
-  <ul>
-    <li ng-repeat="menuItem in narrowIt.menuItems">{{menuItem.short_name}} | {{menuItem.name}} | {{menuItem.description}}</li>
-  </ul>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>short_name</th>
+        <th>name</th>
+        <th>description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="menuItem in list.items">
+        <td>{{menuItem.short_name}}</td>
+        <td>{{menuItem.name}}</td>
+        <td>{{menuItem.description}}</td>
+        <td><button ng-click="list.onRemove({index: $index});">Don't want this one!</button></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
