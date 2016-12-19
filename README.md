@@ -1,4 +1,4 @@
-﻿# Coursera v1.6.2, 15 grudnia 2016
+﻿# Coursera v1.6.4, 19 grudnia 2016
 [Kursy na Coursera]()
 
 # Ukończone kursy
@@ -60,6 +60,10 @@ Do zrobienia
 
 * [ ] Single Page Web Applications with AngularJS
 * [ ] Machine Learning
+
+2016-12-19 v1.6.4
+
+* New: assignment 3 solution (Multi-class Classification and Neural Networks)
 
 2016-12-15 v1.6.3
 
