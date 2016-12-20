@@ -26,6 +26,10 @@ nyDPtPle7Q1aNVNV
 
 nx0mknRrlg91TCBj
 
+## Programming Assignment: Neural Network Learning
+
+HLX1m2hW845Bvwes
+
 # Single Page Web Applications with AngularJS
 
 > browser-sync start --server --directory --files "*/*"
