@@ -62,23 +62,19 @@ Theta2_grad = zeros(size(Theta2));
 %               and Theta2_grad from Part 2.
 %
 
+h1 = sigmoid([ones(m,1) X] * Theta1'); %5000x25
+h2 = sigmoid([ones(m,1) h1] * Theta2'); %5000x10
 
+y10 = zeros(m,10); %5000x10
+for i = 1:m
+  y10(i,y(i)) = 1;
+end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+a = -y10 .* log(h2);
+b = (1 - y10) .* log(1 - h2);
+c = a - b;
+d = sum(c, 2);
+J = sum(d) / m;
 
 % -------------------------------------------------------------
 
@@ -86,6 +82,5 @@ Theta2_grad = zeros(size(Theta2));
 
 % Unroll gradients
 grad = [Theta1_grad(:) ; Theta2_grad(:)];
-
 
 end
