@@ -65,7 +65,7 @@ Theta2_grad = zeros(size(Theta2));
 h1 = sigmoid([ones(m,1) X] * Theta1'); %5000x25
 h2 = sigmoid([ones(m,1) h1] * Theta2'); %5000x10
 
-y10 = zeros(m,10); %5000x10
+y10 = zeros(m,num_labels); %5000x10
 for i = 1:m
   y10(i,y(i)) = 1;
 end
