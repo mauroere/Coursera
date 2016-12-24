@@ -78,6 +78,14 @@ J = sum(d) / m;
 
 % -------------------------------------------------------------
 
+t1 = Theta1(:,2:input_layer_size + 1);
+t2 = Theta2(:,2:hidden_layer_size + 1);
+tt1 = t1.^2;
+tt2 = t2.^2;
+tt1_sum = sum(tt1(:));
+tt2_sum = sum(tt2(:));
+J = J + (lambda / (2 * m))*(tt1_sum + tt2_sum);
+
 % =========================================================================
 
 % Unroll gradients
