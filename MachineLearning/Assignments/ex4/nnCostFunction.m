@@ -80,13 +80,6 @@ J = sum(d) / m;
 
 % -------------------------------------------------------------
 
-a1 = [ones(m,1) X]'; %401x5000
-z2 = Theta1 * a1; %25x401 401x5000 : 25x5000
-a2 = sigmoid(z2); %25x5000
-z3 = Theta2 * a2; %10x26 26x5000 : 10x5000
-a3 = sigmoid(z3); %10x5000
-h = a3; %10x5000
-
 t1 = Theta1(:,2:input_layer_size + 1);
 t2 = Theta2(:,2:hidden_layer_size + 1);
 tt1 = t1.^2;
@@ -97,10 +90,24 @@ J = J + (lambda / (2 * m))*(tt1_sum + tt2_sum);
 
 % =========================================================================
 
-delta3 = h2 - y10;
-z2_p = sigmoid(z2).*(1 - sigmoid(z2));
-Theta23=delta3*Theta2;
-delta2 = Theta23(2,end).*z2_p;
+a1 = [ones(m,1) X]'; %401x5000
+z2 = [ones(1,m); Theta1 * a1]; %25x401 401x5000 : 26x5000
+a2 = sigmoid(z2); %26x5000
+z3 = Theta2 * a2; %10x26 26x5000 : 10x5000
+a3 = sigmoid(z3); %10x5000
+h = a3; %10x5000
+
+yT = y10';
+delta3 = yT - h; %10x5000
+g2 = a2 .* (1 - a2); %26x5000
+delta2 = (Theta2' * delta3) .* g2; %26x10 10x5000 : 26x5000
+Delta2 = delta3 * a2'; %10x5000 5000x26 : 10x26
+D2 = Delta2 / m;
+Delta1 = delta2 * a1';
+D1 = Delta1 / m;
+
+Theta1_grad = D1;
+Theta2_grad = D2;
 
 % Unroll gradients
 grad = [Theta1_grad(:) ; Theta2_grad(:)];
