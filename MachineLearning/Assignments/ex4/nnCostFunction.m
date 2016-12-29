@@ -110,6 +110,14 @@ Delta1 = delta2 * a1'; %25x5000 5000x401 : 25x401
 %Delta1 = Delta1(2:end,:);
 D1 = Delta1 / m;
 
+L1 = Theta1 * (lambda / m);
+L1 = [zeros(size(D1,1),1) L1(:,2:end)];
+D1 = D1 + L1;
+
+L2 = Theta2 * (lambda / m);
+L2 = [zeros(size(D2,1),1) L2(:,2:end)];
+D2 = D2 + L2;
+
 Theta1_grad = D1;
 Theta2_grad = D2;
 %size(Theta1_grad)
