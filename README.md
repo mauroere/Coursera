@@ -30,6 +30,10 @@ nx0mknRrlg91TCBj
 
 HLX1m2hW845Bvwes
 
+## Programming Assignment: Regularized Linear Regression and Bias/Variance
+
+RkOpeaELGxCPzRVu
+
 # Single Page Web Applications with AngularJS
 
 > browser-sync start --server --directory --files "*/*"
