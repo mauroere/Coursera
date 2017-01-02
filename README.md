@@ -1,4 +1,4 @@
-﻿# Coursera v1.6.5, 29 grudnia 2016
+﻿# Coursera v1.6.6, 2 stycznia 2017
 [Kursy na Coursera]()
 
 # Ukończone kursy
@@ -69,6 +69,9 @@ Do zrobienia
 * [ ] Single Page Web Applications with AngularJS
 * [ ] Machine Learning
 
+2016-01-02 v1.6.6
+
+* New: assignment 5 solution (Regularized Linear Regression and Bias/Variance)
 2016-12-29 v1.6.5
 
 * New: assignment 4 solution (Neural Network Learning)
