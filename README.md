@@ -34,6 +34,10 @@ HLX1m2hW845Bvwes
 
 RkOpeaELGxCPzRVu
 
+## Programming Assignment: Support Vector Machines
+
+BmpqzCl2Ytthk5Ud
+
 # Single Page Web Applications with AngularJS
 
 > browser-sync start --server --directory --files "*/*"
@@ -72,6 +76,7 @@ Do zrobienia
 2016-01-02 v1.6.6
 
 * New: assignment 5 solution (Regularized Linear Regression and Bias/Variance)
+
 2016-12-29 v1.6.5
 
 * New: assignment 4 solution (Neural Network Learning)
