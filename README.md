@@ -3,6 +3,7 @@
 
 # Ukończone kursy
 
+* Agile
 * Interactivity with JavaScript
 * Introduction to CSS3
 * Introduction to HTML5
@@ -54,6 +55,15 @@ BmpqzCl2Ytthk5Ud
 
 [Assignment 3 solution](https://damianhintz.github.io/Coursera/SinglePageWebApplicationsWithAngularJS/assignment3/)
 
+# Agile
+
+* sprint (iteracja tydzień lub dwa)
+* planowanie user story
+* szacowanie user story
+* retrospektywa (podsumowanie)
+* codzienne spotkania (5 lub 15 minut)
+* backlog grooming (co tydzień)
+
 # Learning How to Learn
 
 * focused and diffuse mode
@@ -65,6 +75,18 @@ BmpqzCl2Ytthk5Ud
 * mataphor and analogy
 * mini tests
 * hard start, jump to easy
+
+## Cykla okołodobowy
+
+* 11:00
+* 18:00
+
+## Technika pomodoro
+
+* 25 minut
+* 5 minut przerwy
+* 4 pomodoro
+* 30 minut przerwy
 
 # Historia
 
