@@ -39,6 +39,11 @@ RkOpeaELGxCPzRVu
 
 BmpqzCl2Ytthk5Ud
 
+## Programming Assignment: K-Means Clustering and PCA
+
+xPx5W4kvdSQACrXZ
+
+
 # Single Page Web Applications with AngularJS
 
 > browser-sync start --server --directory --files "*/*"
