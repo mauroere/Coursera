@@ -81,7 +81,7 @@ xPx5W4kvdSQACrXZ
 * mini tests
 * hard start, jump to easy
 
-## Cykla okołodobowy
+## Cykl okołodobowy
 
 * 11:00
 * 18:00
