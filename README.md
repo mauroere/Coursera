@@ -9,39 +9,16 @@
 * Introduction to HTML5
 * Learning How to Learn
 
-# How to submit Machine Learning
+# Machine Learning
 
-Copy the token below and run the submission script included in the assignment download.
-When prompted, use your email address damian.hintz@gmail.com
-
-## Programming Assignment: Linear Regression
-
-SQH1qp0CrCbMED4N
-MlTzlR4CY2egElcz
-
-## Programming Assignment: Logistic Regression
-
-nyDPtPle7Q1aNVNV
-
-## Programming Assignment: Multi-class Classification and Neural Networks
-
-nx0mknRrlg91TCBj
-
-## Programming Assignment: Neural Network Learning
-
-HLX1m2hW845Bvwes
-
-## Programming Assignment: Regularized Linear Regression and Bias/Variance
-
-RkOpeaELGxCPzRVu
-
-## Programming Assignment: Support Vector Machines
-
-BmpqzCl2Ytthk5Ud
-
-## Programming Assignment: K-Means Clustering and PCA
-
-xPx5W4kvdSQACrXZ
+* Linear Regression
+* Logistic Regression
+* Multi-class Classification and Neural Networks
+* Neural Network Learning
+* Regularized Linear Regression and Bias/Variance
+* Support Vector Machines
+* K-Means Clustering and PCA
+* Anomaly Detection and Recommender Systems
 
 
 # Single Page Web Applications with AngularJS
