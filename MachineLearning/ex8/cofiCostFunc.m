@@ -43,6 +43,10 @@ predictions = X * Theta';
 errors = (predictions - Y) .^ 2;
 errors_r = errors .* R;
 J = sum(sum(errors_r)) / 2;
+
+Theta_reg = sum(sum(Theta .^ 2));
+X_reg = sum(sum(X .^ 2));
+J = J + (Theta_reg + X_reg) * lambda / 2;
 % =============================================================
 e = predictions - Y;
 e_r = e .* R;
