@@ -1,4 +1,4 @@
-﻿# Coursera v1.6.8, 12 stycznia 2017
+﻿# Coursera v1.6.9, 18 stycznia 2017
 [Kursy na Coursera]()
 
 # Ukończone kursy
@@ -76,6 +76,10 @@ Do zrobienia
 
 * [ ] Single Page Web Applications with AngularJS
 * [ ] Machine Learning
+
+2017-01-18 v1.6.9
+
+* New: assignment 8 solution (Anomaly Detection and Recommender Systems)
 
 2017-01-12 v1.6.8
 
