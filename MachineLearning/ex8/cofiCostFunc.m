@@ -53,6 +53,9 @@ e_r = e .* R;
 X_grad = e_r * Theta;
 Theta_grad = e_r' * X;
 
+X_grad = X_grad + lambda * X;
+Theta_grad = Theta_grad + lambda * Theta;
+
 grad = [X_grad(:); Theta_grad(:)];
 
 end
