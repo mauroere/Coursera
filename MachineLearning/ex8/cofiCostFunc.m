@@ -40,11 +40,14 @@ Theta_grad = zeros(size(Theta));
 %                     partial derivatives w.r.t. to each element of Theta
 %
 predictions = X * Theta';
-errors = predictions - Y;
-errors = errors .^ 2;
+errors = (predictions - Y) .^ 2;
 errors_r = errors .* R;
-J = sum(errors_r(:)) / 2;
+J = sum(sum(errors_r)) / 2;
 % =============================================================
+e = predictions - Y;
+e_r = e .* R;
+X_grad = e_r * Theta;
+Theta_grad = e_r' * X;
 
 grad = [X_grad(:); Theta_grad(:)];
 
