@@ -1,9 +1,10 @@
-﻿# Coursera v1.6.9, 18 stycznia 2017
+﻿# Coursera v1.7, 26 stycznia 2017
 [Kursy na Coursera]()
 
 # Ukończone kursy
 
-* Agile
+* Machine Learning
+* Agile Software Development
 * Interactivity with JavaScript
 * Introduction to CSS3
 * Introduction to HTML5
@@ -37,7 +38,7 @@
 
 [Assignment 3 solution](https://damianhintz.github.io/Coursera/SinglePageWebApplicationsWithAngularJS/assignment3/)
 
-# Agile
+# Agile Software Development
 
 * sprint (iteracja tydzień lub dwa)
 * planowanie user story
@@ -75,7 +76,11 @@
 Do zrobienia
 
 * [ ] Single Page Web Applications with AngularJS
-* [ ] Machine Learning
+* [ ] Principles of Machine Learning (edX)
+
+2017-01-26 v1.7
+
+* New: ukończyłem kurs Machine Learning
 
 2017-01-18 v1.6.9
 
