@@ -10,6 +10,8 @@
 * Introduction to HTML5
 * Learning How to Learn
 
+# Understanding Machine Learning with Python
+
 # Neural Networks for Machine Learning
 
 # HTML, CSS, and Javascript for Web Developers
