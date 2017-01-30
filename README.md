@@ -10,6 +10,10 @@
 * Introduction to HTML5
 * Learning How to Learn
 
+# Neural Networks for Machine Learning
+
+# HTML, CSS, and Javascript for Web Developers
+
 # Machine Learning
 
 * Linear Regression
@@ -75,6 +79,8 @@
 
 Do zrobienia
 
+* [ ] HTML, CSS, and Javascript for Web Developers
+* [ ] Neural Networks for Machine Learning
 * [ ] Single Page Web Applications with AngularJS
 * [ ] Principles of Machine Learning (edX)
 
