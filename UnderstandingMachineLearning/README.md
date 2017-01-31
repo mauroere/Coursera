@@ -4,7 +4,6 @@
 # Ukończone kursy
 
 * Machine Learning
-* Understanding Machine Learning
 * Agile Software Development
 * Interactivity with JavaScript
 * Introduction to CSS3
@@ -44,8 +43,6 @@
 ## Week 3
 
 [Assignment 3 solution](https://damianhintz.github.io/Coursera/SinglePageWebApplicationsWithAngularJS/assignment3/)
-
-# Understanding Machine Learning
 
 # Agile Software Development
 
@@ -137,10 +134,6 @@ Do zrobienia
 2016-11-20 v1.5-beta
 
 * nowość: kurs Machine Learning
-
-2016-11-16 v1.4.1-beta
-
-* nowość: kurs Understanding Machine Learning (Pluralsight)
 
 2016-10-10 v1.4-beta
 
