@@ -1,5 +1,5 @@
 ﻿# Coursera v1.8, 2 lutego 2017
-Kursy na [Coursera]((https://www.coursera.org/)), [edX](https://courses.edx.org/dashboard#) i [Pluralsight](https://app.pluralsight.com/library/)
+Kursy na [Coursera](https://www.coursera.org/), [edX](https://courses.edx.org/dashboard#) i [Pluralsight](https://app.pluralsight.com/library/)
 
 # Ukończone kursy
 
