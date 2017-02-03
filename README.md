@@ -1,8 +1,9 @@
-﻿# Coursera v1.7, 26 stycznia 2017
-[Kursy na Coursera]()
+﻿# Coursera v1.8, 2 lutego 2017
+Kursy na [Coursera]((https://www.coursera.org/)), [edX](https://courses.edx.org/dashboard#) i [Pluralsight](https://app.pluralsight.com/library/)
 
 # Ukończone kursy
 
+* Understanding Machine Learning with Python
 * Machine Learning
 * Understanding Machine Learning
 * Agile Software Development
@@ -10,75 +11,6 @@
 * Introduction to CSS3
 * Introduction to HTML5
 * Learning How to Learn
-
-# Understanding Machine Learning with Python
-
-# Neural Networks for Machine Learning
-
-# HTML, CSS, and Javascript for Web Developers
-
-# Machine Learning
-
-* Linear Regression
-* Logistic Regression
-* Multi-class Classification and Neural Networks
-* Neural Network Learning
-* Regularized Linear Regression and Bias/Variance
-* Support Vector Machines
-* K-Means Clustering and PCA
-* Anomaly Detection and Recommender Systems
-
-
-# Single Page Web Applications with AngularJS
-
-> browser-sync start --server --directory --files "*/*"
-
-## Week 1
-
-[Assignment 1 solution](https://damianhintz.github.io/Coursera/SinglePageWebApplicationsWithAngularJS/assignment1/)
-
-## Week 2
-
-[Assignment 2 solution](https://damianhintz.github.io/Coursera/SinglePageWebApplicationsWithAngularJS/assignment2/)
-
-## Week 3
-
-[Assignment 3 solution](https://damianhintz.github.io/Coursera/SinglePageWebApplicationsWithAngularJS/assignment3/)
-
-# Understanding Machine Learning
-
-# Agile Software Development
-
-* sprint (iteracja tydzień lub dwa)
-* planowanie user story
-* szacowanie user story
-* retrospektywa (podsumowanie)
-* codzienne spotkania (5 lub 15 minut)
-* backlog grooming (co tydzień)
-
-# Learning How to Learn
-
-* focused and diffuse mode
-* chunking
-* spaced repetition
-* recall (testing)
-* focus on process not the problem (Pomodoro)
-* memory palace
-* mataphor and analogy
-* mini tests
-* hard start, jump to easy
-
-## Cykl okołodobowy
-
-* 11:00
-* 18:00
-
-## Technika pomodoro
-
-* 25 minut
-* 5 minut przerwy
-* 4 pomodoro
-* 30 minut przerwy
 
 # Historia
 
@@ -88,6 +20,10 @@ Do zrobienia
 * [ ] Neural Networks for Machine Learning
 * [ ] Single Page Web Applications with AngularJS
 * [ ] Principles of Machine Learning (edX)
+
+2017-02-02 v1.8
+
+* Nowość: ukończyłem kurs Understanding Machine Learning with Python (Pluralsight)
 
 2017-01-26 v1.7
 
@@ -160,4 +96,4 @@ Do zrobienia
 
 2014-09-27 v1.0-alfa
 
-* [Propozycja projektu](https://www.mastercoder.pl/Tasks)
+* [Propozycja projektu](https://www.coursera.org/)
