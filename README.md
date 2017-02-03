@@ -16,9 +16,11 @@ Kursy na [Coursera](https://www.coursera.org/), [edX](https://courses.edx.org/da
 
 Do zrobienia
 
-* [ ] HTML, CSS, and Javascript for Web Developers
-* [ ] Neural Networks for Machine Learning
-* [ ] Single Page Web Applications with AngularJS
+* [ ] Angular Fundamentals (Pluralsight)
+* [ ] Data Science Orientation (edX)
+* [ ] HTML, CSS, and Javascript for Web Developers (Coursera)
+* [ ] Neural Networks for Machine Learning (Coursera)
+* [ ] Single Page Web Applications with AngularJS (Coursera)
 * [ ] Principles of Machine Learning (edX)
 
 2017-02-02 v1.8
