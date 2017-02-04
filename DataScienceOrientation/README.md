@@ -1,16 +1,7 @@
-﻿# edX v1.5-beta, 26 styczeń 2017
-[Kursy na edX](https://www.coursera.org/learn/single-page-web-apps-with-angularjs/home)
+﻿# edX v1.9-alfa, 4 lutego 2017
+[Kursy na edX](https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+1T2017/info)
 
 # Cechy
-
-# Agile Software Development
-
-* sprint (iteracja tydzień lub dwa)
-* planowanie user story
-* szacowanie user story
-* retrospektywa (podsumowanie)
-* codzienne spotkania (5 lub 15 minut)
-* backlog grooming (co tydzień)
 
 # Historia
 
@@ -18,8 +9,8 @@ Do zrobienia
 
 2017-01-26 v1.6-beta
 
-* Nowość: ukończyłem kurs Single Page Web Applications with AngularJS
+* Nowość: ukończyłem kurs Data Science Orientation
 
-2016-11-21 v1.6-alfa
+2017-02-04 v1.9-alfa
 
-* [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs/home)
+* [Data Science Orientation](https://courses.edx.org/courses/course-v1:Microsoft+DAT101x+1T2017/info)
