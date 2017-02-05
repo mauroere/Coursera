@@ -16,12 +16,28 @@ Kursy na [Coursera](https://www.coursera.org/), [edX](https://courses.edx.org/da
 
 Do zrobienia
 
-* [ ] Angular Fundamentals (Pluralsight)
-* [ ] Data Science Orientation (edX)
-* [ ] HTML, CSS, and Javascript for Web Developers (Coursera)
-* [ ] Neural Networks for Machine Learning (Coursera)
-* [ ] Single Page Web Applications with AngularJS (Coursera)
-* [ ] Principles of Machine Learning (edX)
+* [ ] edX Data Science (Microsoft Professional Program)
+    * [ ] Data Science Orientation (edX)
+    * [ ] Querying Data with Transact-SQL
+    * [ ] Analyzing and Visualizing Data with Power BI
+    * [ ] Statistical Thinking for Data Science and Analytics
+    * [ ] Introduction to Python for Data Science
+    * [ ] Data Science Essentials
+    * [ ] Principles of Machine Learning (edX)
+    * [ ] Programming with Python for Data Science
+    * [ ] Applied Machine Learning
+    * [ ] Data Science Challenge
+* [ ] Coursera
+    * [ ] Neural Networks for Machine Learning
+    * [ ] HTML, CSS, and Javascript for Web Developers
+    * [ ] Single Page Web Applications with AngularJS
+* [ ] Pluralsight
+    * [ ] A Comparison of Microsoft Web Technologies
+    * [ ] WPF and XAML Fundamentals
+    * [ ] Angular Fundamentals
+* [ ] Microsoft Virtual Academy
+    * [ ] Visual Studio – jak zorganizować pracę używając Scrum i GIT?
+    * [ ] Introduction to ASP.NET Core 1.0
 
 2017-02-02 v1.8
 

@@ -7,7 +7,7 @@
 
 Do zrobienia
 
-2017-01-26 v1.6-beta
+2017-03-31 v1.6-beta
 
 * Nowość: ukończyłem kurs Data Science Orientation
 
