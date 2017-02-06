@@ -1,8 +1,9 @@
-﻿# Coursera v1.8, 2 lutego 2017
+﻿# Coursera v1.8.1, 6 lutego 2017
 Kursy na [Coursera](https://www.coursera.org/), [edX](https://courses.edx.org/dashboard#) i [Pluralsight](https://app.pluralsight.com/library/)
 
 # Ukończone kursy
 
+* A Comparison of Microsoft Web Technologies
 * Understanding Machine Learning with Python
 * Machine Learning
 * Understanding Machine Learning
@@ -32,12 +33,17 @@ Do zrobienia
     * [ ] HTML, CSS, and Javascript for Web Developers
     * [ ] Single Page Web Applications with AngularJS
 * [ ] Pluralsight
-    * [ ] A Comparison of Microsoft Web Technologies
+    * [x] A Comparison of Microsoft Web Technologies
     * [ ] WPF and XAML Fundamentals
     * [ ] Angular Fundamentals
+    * [ ] ASP.NET MVC 5 Fundamentals
 * [ ] Microsoft Virtual Academy
     * [ ] Visual Studio – jak zorganizować pracę używając Scrum i GIT?
     * [ ] Introduction to ASP.NET Core 1.0
+
+2017-02-06 v1.8.1
+
+* Nowość: ukończyłem kurs A Comparison of Microsoft Web Technologies
 
 2017-02-02 v1.8
 
