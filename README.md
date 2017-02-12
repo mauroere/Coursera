@@ -33,7 +33,6 @@ Do zrobienia
     * [ ] HTML, CSS, and Javascript for Web Developers
     * [ ] Single Page Web Applications with AngularJS
 * [ ] Pluralsight
-    * [x] A Comparison of Microsoft Web Technologies
     * [ ] WPF and XAML Fundamentals
     * [ ] Angular Fundamentals
     * [ ] ASP.NET MVC 5 Fundamentals
